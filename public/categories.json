@@ -1,0 +1,7 @@
+[
+  { "id": 0, "name": "All Products" },
+  { "id": 1, "name": "Electronics" },
+  { "id": 2, "name": "Furniture" },
+  { "id": 3, "name": "Home & Kitchen" },
+  { "id": 4, "name": "Wearables" }
+]

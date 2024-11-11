@@ -1,0 +1,268 @@
+[
+  {
+    "product_id": "C001",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/z5QY770/4c30b068292df4a62805af729815e06a-256p.jpg",
+    "category": "Computers",
+    "price": 999,
+    "description": "Compact and powerful laptop with a stunning display and long battery life.",
+    "specification": [
+      "Intel Core i5 Processor",
+      "8GB RAM",
+      "256GB SSD Storage",
+      "13.3-inch FHD Display"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "C002",
+    "product_title": "MacBook Air M2",
+    "product_image": "https://i.ibb.co.com/djytPjb/macbook-air-m2-2022-cto-16512gb-starlight-pdp-main-256.jpg",
+    "category": "Computers",
+    "price": 1150,
+    "description": "Ultra-thin, lightweight laptop with Apple's M2 chip for faster processing.",
+    "specification": [
+      "Apple M2 Chip",
+      "8GB RAM",
+      "256GB SSD Storage",
+      "13.6-inch Retina Display"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "C003",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/1rTPDcy/images-q-tbn-ANd9-Gc-QVrt-Mf-YFqm-O1f-X89-Rcn7-AYv-Xd-Q94vp4-G4x-AQ-s.jpg",
+    "category": "Computers",
+    "price": 1300,
+    "description": "Convertible laptop with a 360-degree hinge and touch display.",
+    "specification": [
+      "Intel Core i7 Processor",
+      "16GB RAM",
+      "512GB SSD Storage",
+      "13.3-inch 4K UHD Display"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "C004",
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.ibb.co.com/6Yk85dH/3-preview.webp",
+    "category": "Computers",
+    "price": 1405,
+    "description": "Durable, business-grade laptop with exceptional keyboard and performance.",
+    "specification": [
+      "Intel Core i7 Processor",
+      "16GB RAM",
+      "512GB SSD Storage",
+      "14-inch FHD Display"
+    ],
+    "availability": false,
+    "rating": 4.5
+  },
+  {
+    "product_id": "C005",
+    "product_title": "ASUS ROG Zephyrus",
+    "product_image": "https://i.ibb.co.com/xLm7JsH/0349d932df1558254dba8272d037471a-256p.jpg",
+    "category": "Computers",
+    "price": 1550,
+    "description": "High-performance gaming laptop with powerful graphics and cooling.",
+    "specification": [
+      "AMD Ryzen 7 Processor",
+      "16GB RAM",
+      "1TB SSD Storage",
+      "15.6-inch FHD Display",
+      "NVIDIA GeForce GTX 1660 Graphics"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "C006",
+    "product_title": "Microsoft Surface Laptop 4",
+    "product_image": "https://i.ibb.co.com/yVnmVgF/fit-force-true-quality-80-compression-80.webp",
+    "category": "Computers",
+    "price": 1250,
+    "description": "Stylish laptop with PixelSense touchscreen and premium build.",
+    "specification": [
+      "Intel Core i5 Processor",
+      "8GB RAM",
+      "256GB SSD Storage",
+      "13.5-inch PixelSense Display"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "C007",
+    "product_title": "Acer Aspire 5",
+    "product_image": "https://i.ibb.co.com/NSf6nG6/images-q-tbn-ANd9-Gc-RVCZw-THw-K9-Xnd6ws09s-Qrz5acin-NZ-L-JZJA-s.jpg",
+    "category": "Computers",
+    "price": 650,
+    "description": "Affordable laptop with a large display and solid performance.",
+    "specification": [
+      "AMD Ryzen 5 Processor",
+      "8GB RAM",
+      "256GB SSD Storage",
+      "15.6-inch FHD Display"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P001",
+    "product_title": "Samsung Galaxy S22",
+    "product_image": "https://i.ibb.co.com/bLkhQXh/images-q-tbn-ANd9-Gc-Qyr357-YG1z-YOMd-Te4-8w4z-Iz4-PTcz-Iz-Nr-BNw-s.jpg",
+    "category": "Phones",
+    "price": 899,
+    "description": "High-end smartphone with a stunning display and powerful camera.",
+    "specification": [
+      "6.1-inch AMOLED Display",
+      "Exynos 2200 Processor",
+      "8GB RAM",
+      "128GB Storage"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P002",
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://i.ibb.co.com/bbv68B1/images-q-tbn-ANd9-Gc-Rfeqo-EJh-Ikv-NQp-IS3s8q-Js-Tlkd05n-Pduz-Zfw-s.jpg",
+    "category": "Phones",
+    "price": 1099,
+    "description": "Apple's flagship smartphone with advanced camera and performance.",
+    "specification": [
+      "6.1-inch OLED Display",
+      "A16 Bionic Processor",
+      "6GB RAM",
+      "128GB Storage"
+    ],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Google Pixel 7",
+    "product_image": "https://i.ibb.co.com/vQGKGpL/image.webp",
+    "category": "Phones",
+    "price": 749,
+    "description": "Google's latest smartphone with exceptional AI-powered camera.",
+    "specification": [
+      "6.4-inch OLED Display",
+      "Google Tensor Processor",
+      "8GB RAM",
+      "128GB Storage"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P004",
+    "product_title": "OnePlus 10 Pro",
+    "product_image": "https://i.ibb.co.com/y6TW4TY/One-Plus-Ace-4-Specifcation-7c5d807165.webp",
+    "category": "Phones",
+    "price": 859,
+    "description": "Flagship smartphone with fast charging and a powerful display.",
+    "specification": [
+      "6.7-inch AMOLED Display",
+      "Snapdragon 8 Gen 1 Processor",
+      "12GB RAM",
+      "256GB Storage"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "SW001",
+    "product_title": "Apple Watch Series 8",
+    "product_image": "https://i.ibb.co.com/jThwjsd/Apple-Watch-Series-8-PRODUCT-RED-Aluminium-Case-with-PRODUCT-RED-Sport-Band.jpg",
+    "category": "Smart Watches",
+    "price": 389,
+    "description": "Advanced smartwatch with health monitoring and fitness tracking.",
+    "specification": [
+      "1.9-inch OLED Display",
+      "18-hour Battery Life",
+      "Water Resistance up to 50m"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "SW002",
+    "product_title": "Samsung Galaxy Watch 5",
+    "product_image": "https://i.ibb.co.com/T8mmxG0/image-1.webp",
+    "category": "Smart Watches",
+    "price": 299,
+    "description": "Feature-packed smartwatch with advanced health sensors.",
+    "specification": [
+      "1.4-inch Super AMOLED Display",
+      "24-hour Battery Life",
+      "Water Resistance up to 50m"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "SW003",
+    "product_title": "Garmin Forerunner 255",
+    "product_image": "https://i.ibb.co.com/rcMCxhk/grm-f255-blk.webp",
+    "category": "Smart Watches",
+    "price": 350,
+    "description": "Advanced sports watch for runners with GPS and heart-rate monitoring.",
+    "specification": [
+      "1.3-inch Transflective Display",
+      "14-day Battery Life",
+      "Water Resistance up to 50m"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "PB001",
+    "product_title": "Anker PowerCore 26800",
+    "product_image": "https://i.ibb.co.com/CzzHRqp/q-Ng-SOie-YKauj26-Wd-Pr-K1c7hql-Ha0e-S6jcu-I6-Ui-GMd-Bk9-VHa0s-DYXIRv-Zwh-G4u-EZ7-Dv-Ogt-SUGFacs2f-H.jpg",
+    "category": "Power Banks",
+    "price": 69,
+    "description": "High-capacity power bank with dual USB ports and fast charging.",
+    "specification": ["26800mAh Capacity", "Dual USB Ports", "Fast Charging"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "PB002",
+    "product_title": "RAVPower Portable Charger 20000mAh",
+    "product_image": "https://i.ibb.co.com/zVyCLC8/ravpower-xtreme-20000mah-power-bank-sort-pdp-main-256.jpg",
+    "category": "Power Banks",
+    "price": 85,
+    "description": "Compact power bank with USB-C and fast charging capabilities.",
+    "specification": ["20000mAh Capacity", "3 USB Ports", "Fast Charging"],
+    "availability": false,
+    "rating": 4.4
+  },
+  {
+    "product_id": "PB003",
+    "product_title": "Zendure SuperTank Pro",
+    "product_image": "https://i.ibb.co.com/d0HPHMY/71imi8-BEs3-L-UC256-256-CACC-256-256.jpg",
+    "category": "Power Banks",
+    "price": 129,
+    "description": "Portable power bank with 100W output for laptops and fast charging.",
+    "specification": ["26,800mAh Capacity", "4 USB Ports", "100W Output"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "PB004",
+    "product_title": "Jackery Explorer 500",
+    "product_image": "https://i.ibb.co.com/QcHdkXc/images-q-tbn-ANd9-Gc-Te39-K3q-Sp6e-Wfk-Zup-To9h-Gikb-J6-M0h-Z31-TLQ-s.jpg",
+    "category": "Power Banks",
+    "price": 549,
+    "description": "Portable power station for outdoor use with 500Wh capacity.",
+    "specification": ["500Wh Capacity", "2 AC Outlets", "Car Charging"],
+    "availability": true,
+    "rating": 4.8
+  }
+]

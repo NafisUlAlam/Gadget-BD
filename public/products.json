@@ -1,0 +1,194 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "Wireless Bluetooth Headphones",
+    "product_image": "https://i.ibb.co.com/QrkWdT8/awei-a360bl-wireless-bluetooth-headphones-1.webp",
+    "category": "Electronics",
+    "price": 99.99,
+    "description": "High-quality wireless Bluetooth headphones with noise cancellation and long battery life.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Noise cancellation",
+      "20-hour battery life",
+      "Comfortable over-ear design"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P002",
+    "product_title": "Smartphone with Dual Cameras",
+    "product_image": "https://i.ibb.co.com/M697zwh/image.webp",
+    "category": "Electronics",
+    "price": 699.99,
+    "description": "Latest model smartphone with dual cameras, high-resolution display, and fast processor.",
+    "specification": [
+      "128GB storage",
+      "6.5-inch HD display",
+      "Dual 12MP cameras",
+      "Face recognition technology"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P003",
+    "product_title": "4K Ultra HD Smart TV",
+    "product_image": "https://i.ibb.co.com/mXrP3rr/de0d3686-4766-11ee-8cfb-8ee861fd9236.jpg",
+    "category": "Electronics",
+    "price": 499.99,
+    "description": "Large 4K Ultra HD Smart TV with streaming apps, voice control, and vibrant display.",
+    "specification": [
+      "55-inch 4K display",
+      "Built-in streaming apps",
+      "Voice control",
+      "HDR10 support"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P004",
+    "product_title": "Portable Bluetooth Speaker",
+    "product_image": "https://i.ibb.co.com/rmRsYZD/images-q-tbn-ANd9-Gc-Qppvgup-R2z-NT3-RDp-Ib-C2-VLvrs-Khavc-Lm-F1gg-s.jpg",
+    "category": "Electronics",
+    "price": 79.99,
+    "description": "Compact Bluetooth speaker with deep bass and water resistance for outdoor use.",
+    "specification": [
+      "Water-resistant",
+      "10-hour battery life",
+      "Deep bass",
+      "Portable design"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Laptop with Touchscreen",
+    "product_image": "https://i.ibb.co.com/vYW0M16/20211018-1102470.jpg",
+    "category": "Electronics",
+    "price": 899.99,
+    "description": "Lightweight laptop with touchscreen display, fast SSD, and high-resolution graphics.",
+    "specification": [
+      "256GB SSD",
+      "8GB RAM",
+      "Touchscreen display",
+      "Intel i5 processor"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Noise-Canceling Earbuds",
+    "product_image": "https://i.ibb.co.com/H4LM5Vr/images-q-tbn-ANd9-Gc-Tt8-CFSD6-Y1pckj-MC5-QLmw1-MQ-l-JSJa-Oze-Q-s.jpg",
+    "category": "Electronics",
+    "price": 129.99,
+    "description": "True wireless earbuds with active noise cancellation and long battery life.",
+    "specification": [
+      "Active noise cancellation",
+      "20-hour battery life",
+      "Wireless charging case",
+      "IPX4 water resistance"
+    ],
+    "availability": false,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P007",
+    "product_title": "Ergonomic Office Chair",
+    "product_image": "https://i.ibb.co.com/1rh69Sn/81-If-Uhy-I8-KL-AC-UF894-1000-QL80.jpg",
+    "category": "Furniture",
+    "price": 159.99,
+    "description": "Comfortable ergonomic office chair with adjustable height, lumbar support, and breathable mesh back.",
+    "specification": [
+      "Adjustable height",
+      "Lumbar support",
+      "Breathable mesh back",
+      "Swivel and tilt functionality"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P008",
+    "product_title": "MeeTion MT-CHR16 Cute Pink Racing E-Sport Gaming Chair",
+    "product_image": "https://i.ibb.co.com/RTK9DZ9/mt-chr16-01-500x500.jpg",
+    "category": "Furniture",
+    "price": 129.99,
+    "description": "Stylish Gaming chair intended for female gamers with a modern design.",
+    "specification": [
+      "Curved neck support headrest",
+      "Modern design",
+      "2D swivel armrest",
+      "Durable finish"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P009",
+    "product_title": "Gamemax GCR07 Gaming Chair Blue",
+    "product_image": "https://i.ibb.co.com/j8V3kk7/gcr07-blue-1-500x500.jpg",
+    "category": "Furniture",
+    "price": 299.99,
+    "description": "Luxurious Gaming Chair with a comfortable seat and easy reclining mechanism.",
+    "specification": [
+      "Premium leather",
+      "Recliner mechanism",
+      "100% vegan PU artificial leather cover",
+      "Safety class 4 gas lift"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P010",
+    "product_title": "Thermomix TM6",
+    "product_image": "https://i.ibb.co.com/rQ8vFyP/7376f6d3-7dcd-4039-b6d2-d44db0410063-1-e5b3544f-2b0f-4d77-b29c-69fbfa65adf8.jpg",
+    "category": "Home & Kitchen",
+    "price": 289.99,
+    "description": "Combines the functionalities of more than 20 kitchen devices, acting as a smart, automated sous chef.",
+    "specification": [
+      "6.8-inch color touchscreen",
+      "Integrated scale with 1-gram accuracy",
+      "Oven-safe up to 500°F",
+      "Around 7.95 kg (17.5 lbs)."
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P011",
+    "product_title": "Air Fryer",
+    "product_image": "https://i.ibb.co.com/ykRRtjf/images-q-tbn-ANd9-Gc-Qy-Z2f-Fv8-D11-IQWTGcmb1fmq21v-Y2-JJh-Av-T6-Q-s.jpg",
+    "category": "Home & Kitchen",
+    "price": 119.99,
+    "description": "Compact air fryer with rapid air technology for crispy and healthy cooking.",
+    "specification": [
+      "3.5-liter capacity",
+      "Non-stick basket",
+      "Adjustable temperature",
+      "Timer function"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P012",
+    "product_title": "Automatic Coffee Maker",
+    "product_image": "https://i.ibb.co.com/sqkzDsg/images-q-tbn-ANd9-Gc-R3i-Td-Feaj-Q3u-Mf-HL-n4-Xd-AS-zptb-Zi1bz-KZw-s.jpg",
+    "category": "Home & Kitchen",
+    "price": 79.99,
+    "description": "Automatic coffee maker with programmable settings and a 12-cup capacity.",
+    "specification": [
+      "12-cup capacity",
+      "Programmable settings",
+      "Auto shut-off",
+      "Reusable filter"
+    ],
+    "availability": true,
+    "rating": 4.3
+  }
+]
