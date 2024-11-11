@@ -19,7 +19,7 @@ const Dashboard = () => {
   return (
     <div>
       <Helmet>
-        <title>Dashboard || Gadget BD</title>
+        <title>Dashboard || Gadgets BD</title>
       </Helmet>
       <div className="bg-[#9538E2] pb-4 lg:pt-12 rounded-xl">
         <h2 className="text-center text-white font-bold text-lg md:text-xl lg:text-3xl mb-4">
